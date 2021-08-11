@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Learning-Based Approaches for Reachability Analysis"
-permalink: /Reachability/
+title: "Miscellaneous"
+permalink: /Misc/
 author_profile: false
 ---
 
@@ -10,7 +10,7 @@ The symbol * denotes equal contribution.
 {% include base_path %}
 
 {% for post in site.papers reversed %}
-	{% if post.reachability %}
+	{% if post.misc %}
 	  {% include archive-single-abstract.html %}
 	{% endif %}
 {% endfor %}

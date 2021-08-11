@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: background.png
-excerpt: "These are some of the research areas I have worked on. [All Papers](/Papers/)"
+excerpt: "These are some of the research areas I have worked on. **[All Papers](/Papers/)**"
 feature_row:
   - image_path: slices_value_function.png
     title: "Learning-Based Approaches for Reachability Analysis "
@@ -28,7 +28,7 @@ feature_row_left:
   - image_path: folder.jpeg
     title: "Miscellaneous"
     excerpt: "Other papers"
-    url: "#test-link"
+    url: /Misc/
     btn_label: "Read More"
     btn_class: "btn--success"
 ---
