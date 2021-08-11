@@ -1,0 +1,13 @@
+---
+title: "Recursive Regression with Neural Networks: Approximating the HJI PDE Solution"
+collection: papers
+link: https://scholar.google.com/scholar?q=Recursive+Regression+with+Neural+Networks:+Approximating+the+HJI+PDE+Solution
+permalink: /papers/2016-01-01-Recursive-Regression-with-Neural-Networks:-Approximating-the-HJI-PDE-Solution
+date: 2016-01-01
+venue: '<b>Vicenç Rubies-Royo</b> and Claire Tomlin. Preprint, arXiv'
+reachability: true
+abstract: 'The majority of methods used to compute approximations to the Hamilton-Jacobi-Isaacs partial differential equation (HJI PDE) rely on the discretization of the state space to perform dynamic programming updates. This type of approach is known to suffer from the curse of dimensionality due to the exponential growth in grid points with the state dimension. In this work we present an approximate dynamic programming algorithm that computes an approximation of the solution of the HJI PDE by alternating between solving a regression problem and solving a minimax problem using a feedforward neural network as the function approximator. We find that this method requires less memory to run and to store the approximation than traditional gridding methods, and we test it on a few systems of two, three and six dimensions.'
+---
+<!-- Abstract: The majority of methods used to compute approximations to the Hamilton-Jacobi-Isaacs partial differential equation (HJI PDE) rely on the discretization of the state space to perform dynamic programming updates. This type of approach is known to suffer from the curse of dimensionality due to the exponential growth in grid points with the state dimension. In this work we present an approximate dynamic programming algorithm that computes an approximation of the solution of the HJI PDE by alternating between solving a regression problem and solving a minimax problem using a feedforward neural network as the function approximator. We find that this method requires less memory to run and to store the approximation than traditional gridding methods, and we test it on a few systems of two, three and six dimensions. -->
+<!-- Use [Google Scholar](https://scholar.google.com/scholar?q=A+Classification-based+Approach+for+Approximate+Reachability){:target="_blank"} for full citation
+citation: '<b>Vicenç Rubies-Royo</b>, David Fridovich-Keil, Sylvia Herbert and Claire Tomlin, &quot;A Classification-based Approach for Approximate Reachability.&quot; In the proceedings of the International Conference on Robotics and Automation (ICRA), 2019.' -->

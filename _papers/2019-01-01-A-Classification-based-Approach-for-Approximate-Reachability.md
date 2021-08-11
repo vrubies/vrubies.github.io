@@ -1,0 +1,11 @@
+---
+title: "A Classification-based Approach for Approximate Reachability"
+collection: publications
+link: https://scholar.google.com/scholar?q=A+Classification-based+Approach+for+Approximate+Reachability
+permalink: /publication/2019-01-01-A-Classification-based-Approach-for-Approximate-Reachability
+date: 2019-01-01
+venue: '<b>Vicenç Rubies-Royo</b>, David Fridovich-Keil, Sylvia Herbert and Claire Tomlin. In the proceedings of the International Conference on Robotics and Automation (ICRA)'
+---
+<!-- Abstract: Hamilton-Jacobi (HJ) reachability analysis has been developed over the past decades into a widely-applicable tool for determining goal satisfaction and safety verification in nonlinear systems. While HJ reachability can be formulated very generally, computational complexity can be a serious impediment for many systems of practical interest. Much prior work has been devoted to computing approximate solutions to large reachability problems, yet many of these methods may only apply to very restrictive problem classes, do not generate controllers, and/or can be extremely conservative. In this paper, we present a new method for approximating the optimal controller of the HJ reachability problem for control-affine systems. While also a specific problem class, many dynamical systems of interest are, or can be well approximated, by controlaffine models. We explicitly avoid storing a representation of the reachability value function, and instead learn a controller as a sequence of simple binary classifiers. We compare our approach to existing grid-based methodologies in HJ reachability and demonstrate its utility on several examples, including a physical quadrotor navigation task. -->
+<!-- Use [Google Scholar](https://scholar.google.com/scholar?q=A+Classification-based+Approach+for+Approximate+Reachability){:target="_blank"} for full citation
+citation: '<b>Vicenç Rubies-Royo</b>, David Fridovich-Keil, Sylvia Herbert and Claire Tomlin, &quot;A Classification-based Approach for Approximate Reachability.&quot; In the proceedings of the International Conference on Robotics and Automation (ICRA), 2019.' -->
