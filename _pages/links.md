@@ -6,4 +6,8 @@ author_profile: true
 comments: false
 ---
 
-This is my external links page.
+[University of California at Berkeley](www.google.com)
+
+[Hybrid Systems Lab (HSL)](www.google.com)
+
+[Berkeley AI Research (BAIR)](www.google.com)

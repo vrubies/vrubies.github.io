@@ -298,9 +298,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Vicenç Rubies-Royo"
 description              : &description "Postdoctoral Scholar at UC Berkeley"
-url                      : "https://vrubies.github.io"
+url                      : https://vrubies.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               :  # "academicpages/academicpages.github.io"
+repository               : "vrubies/vrubies.github.io" # "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
