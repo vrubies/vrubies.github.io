@@ -19,10 +19,10 @@ Education
 
 Research Experience
 ======
-My research can be divided into two main areas: planning and control for high-dimensional safety-critical systems and verification algorithms for neural networks. The overarching goal of my work has been to advance the deployment of safe autonomous systems which also incorporate learning components, such as feed-forward and convolutional neural networks. Potential application domains include autonomous vehicles, robotic manipulation, robust and verifiable machine learning, and safe reinforcement learning. Below I present a selection of different research topics I have explored:
-* **Control and Reachability.** Computation of safety controllers and reachable sets in constraint and goal satisfaction problems for high-dimensional dynamical systems. In this line of work, neural networks are trained via approximate dynamic programming to emulate the optimal control policy and value function of the underlying Hamilton-Jacobi optimal control problem.
-* **ML Verification and Robustness.** Computation of safety controllers and reachable sets in constraint and goal satisfaction problems for high-dimensional dynamical systems. In this line of work, neural networks are trained via approximate dynamic programming to emulate the optimal control policy and value function of the underlying Hamilton-Jacobi optimal control problem.
-* **(Multi-agent) Planning.** Computation of safety controllers and reachable sets in constraint and goal satisfaction problems for high-dimensional dynamical systems. In this line of work, neural networks are trained via approximate dynamic programming to emulate the optimal control policy and value function of the underlying Hamilton-Jacobi optimal control problem.
+<!-- My research can be divided into two main areas: planning and control for high-dimensional safety-critical systems and verification algorithms for neural networks. The overarching goal of my work has been to advance the deployment of safe autonomous systems which also incorporate learning components, such as feed-forward and convolutional neural networks. Potential application domains include autonomous vehicles, robotic manipulation, robust and verifiable machine learning, and safe reinforcement learning. Below I present a selection of different research topics I have explored: -->
+* **Learning-Based Approaches for Reachability Theory.** Computation of safety controllers and reachable sets in constraint and goal satisfaction problems for high-dimensional dynamical systems. In this line of work, neural networks are trained via approximate dynamic programming to emulate the optimal control policy and value function of the underlying Hamilton-Jacobi optimal control problem.
+* **Neural Network Verification and Analysis.** This work consists primarily on input-output neural network verification via convex relaxations and partitioning of the input/latent spaces. The aim for this work is to verify that a set of inputs to a neural network cannot produce any undesirable outputs. This can be used to establish the robustness of a neural network to adversarial attacks or to check that a neural network controller does not output dangerous control actions.
+* **Game-Theoretic (Inverse) Path Planning.** This work focuses on real-time synthesis of motion plans in multi-player, general-sum differential games. Additionally, we also explore the inverse problem of inferring costs from trajectories.
 
 Employment Record
 ======
@@ -39,11 +39,12 @@ Relevant Skills
 ======
 * **Control theory:** Linear, Nonlinear, and Hybrid Systems, Stochastic Control, Optimal Control, Reachability Analysis, Differential Games etc.
 * **AI and Machine Learning:** Dynamic Programming, Reinforcement Learning, Verification, Robustness, Convex and Nonconvex Optimization, Artificial Neural Networks, Decision Trees, Nearest Neighbors, Maximum Likelihood Estimation etc.
-* **Programming:** Python, C++, Java, Matlab, ROS
+* **Programming:** Python (Pytorch, Tensorflow), C++, Java, Matlab, ROS
 * **Languages:** Spanish (native), Catalan (native), French (fluent) and English (fluent)
 
 Publications
 ======
+ The symbol * denotes equal contribution.
   <ul>{% for post in site.papers reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
