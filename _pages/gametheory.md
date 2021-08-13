@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Game-Theoretic (Inverse) Path Planning"
-permalink: /Gametheory/
+permalink: /GameTheory/
 author_profile: false
 ---
 
